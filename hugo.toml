@@ -1,4 +1,4 @@
-baseURL = 'https://lorenexample.org/'
+baseURL = 'https://lorenjohnson.netlify.app/'
 languageCode = 'en-us'
 title = 'Loren Johnson -- Human artist'
 theme = "hugo-theme-console"
