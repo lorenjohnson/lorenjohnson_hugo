@@ -1,7 +1,7 @@
 ---
 title: 'Putrefaction'
 date: 2024-01-13T12:42:47+01:00
-draft: true
+draft: false
 ---
 
 Coherent quote from this: [https://www.arthistoryproject.com/artists/george-ripley/the-compound-of-alchemy/putrefaction/](https://www.arthistoryproject.com/artists/george-ripley/the-compound-of-alchemy/putrefaction/)

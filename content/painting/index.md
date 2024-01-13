@@ -1,7 +1,7 @@
 +++
 title = 'Painting'
 date = 2024-01-13T12:42:47+01:00
-draft = true
+draft = false
 +++
 
 To explore what isn’t in me social, but becomes material for connection. To transmute the personal hermetic core of myself into a more general substance of value. Something Alchemic has always been at stake for me in my art production, and my painting studio was my laboratory.
