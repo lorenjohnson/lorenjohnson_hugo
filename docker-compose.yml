@@ -1,0 +1,9 @@
+version: '3'
+services:
+  hugo-site:
+    image: klakegg/hugo:0.81.0-ext-ubuntu
+    ports:
+      - "1313:1313"
+    volumes:
+      - .:/app
+    command: ["hugo", "server", "--bind", "0.0.0.0", "--port", "1313"]
