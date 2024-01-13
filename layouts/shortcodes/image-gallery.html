@@ -1,0 +1,7 @@
+<div class="grid-container" style="filter: sepia(70%) contrast(200%); max-width: 100vw !important">
+  {{ range .Page.Resources.ByType "image" }}
+    <div class="grid-item" style="width: 50%">
+      <img src="{{ .Permalink }}" alt="{{ .Permalink }}" />
+    </div>
+  {{ end }}
+</div>

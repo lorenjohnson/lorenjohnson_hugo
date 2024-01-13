@@ -1,0 +1,4 @@
+baseURL = 'https://lorenexample.org/'
+languageCode = 'en-us'
+title = 'Loren Johnson -- Human artist'
+theme = "hugo-theme-console"
