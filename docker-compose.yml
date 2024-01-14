@@ -6,4 +6,3 @@ services:
       - "1313:1313"
     volumes:
       - .:/app
-    command: ["server", "--bind", "0.0.0.0", "--port", "1313", "--config", "hugo.toml", "--configDir", "config"]
