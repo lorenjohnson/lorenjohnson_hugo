@@ -1,0 +1,8 @@
+base_url = 'https://lorenjohnson.netlify.app/'
+title = ""
+description = ""
+theme = "no-style-please"
+
+[extra]
+site_name = "Loren Johnson"
+list_pages = true

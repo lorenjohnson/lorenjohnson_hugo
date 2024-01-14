@@ -1,0 +1,23 @@
+<div class="grid-container">
+{{ range .Page.Resources.ByType "image" }}
+  {{ $resizedImage := .Resize "x500" }}
+  <a href="{{ .Permalink }}" target="_blank">
+    <img src="{{ $resizedImage.Permalink }}" alt="{{ $resizedImage.Permalink }}" />
+  </a>
+{{ end }}
+</div>
+
+<style>
+  .grid-container {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    display: grid;
+  }
+
+  .grid-container a {
+    filter: sepia(50%) contrast(200%);
+  }
+
+  .grid-container a:hover {
+    filter: sepia(0%) contrast(180%);
+  }
+</style>

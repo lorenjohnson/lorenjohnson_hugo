@@ -4,14 +4,14 @@
 Loren Johnson is going to stay human.
 </p>
 
-<h1>Some Projects</h1>
+<h1>Projects</h1>
 
-<div class="posts-list">
+<div>
 {{ with .Site.GetPage "/" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+    {{ range first 6 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>
-                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <!-- <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div> -->
                 <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
                 {{ .Summary }}
             </p>
