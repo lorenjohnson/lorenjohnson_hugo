@@ -6,13 +6,15 @@ draft: false
 
 ## Heaven is a place where nothing ever ever happens
 
-My digital archives has more frequently taken on the role of a duty to oversee and safeguard, rather than the site of deep reflection and insight I had hoped. Digital media is effectively static, unchanged by the passing of time. Traditional mediums patina, yellow, curl and decompose with time in ways familiar and often revered and comforting.
+Digital media is effectively static and unchanged by the passing of time. Traditional mediums patina, yellow, curl and decompose with time in ways familiar and often revered and comforting. 
 
 ## Current research
 
-As part of an ongoing exploration I have been attempting to address the stasis of my archive through the digital analogs of an alchemic process. In a most recent effort I've processed the images and videos through an algorithmic approximation of the first four stages: burning, dissolving, separating, re-combining, and fermenting.
+My personal digital archive has more felt like a duty to oversee and safeguard, rather than a site of deep reflection and insight I otherwise wish it to be. 
 
-## Initial results
+As part of an ongoing research on this topic I have been experimenting with a digital analog of an alchemic process to transform these materials into something once again dynamic and time bound. In this most recent effort I've processed the images and videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting.
+
+## Results
 
 <!-- https://www.kiroule.com/article/add-image-lightbox-to-hugo-theme/ -->
 {{< image-grid >}}
