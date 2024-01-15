@@ -1,0 +1,24 @@
+/* Overrides */
+h1::after {
+  margin-bottom: 12em;
+}
+
+:root {
+  --global-font-size: 18px;
+  --global-font-color: #444;
+  --mono-font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  --font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  --global-line-height: 1.4em;
+  --page-width: 56em;
+  --primary-color: #FF69B4;
+  --display-h1-decoration: 0;
+  --code-bg-color: #fff;
+}
+
+.current-projects {
+  display: flex;
+  gap: 2em;
+}
+.current-projects > * {
+  flex: 1;
+}

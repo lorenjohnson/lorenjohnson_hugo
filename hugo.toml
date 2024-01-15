@@ -1,7 +1,7 @@
 baseURL = 'https://lorenjohnson.netlify.app/'
 languageCode = 'en-us'
-title = 'Loren Johnson -- Human artist'
-theme = "hugo-theme-console"
+title = 'Loren Johnson is going to stay human'
+theme = ["hugo-theme-console", "hugo-video"]
 
 [security]
   enableInlineShortcodes = true

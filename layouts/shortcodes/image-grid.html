@@ -1,4 +1,6 @@
-<div class="grid-container">
+<!-- https://www.kiroule.com/article/add-image-lightbox-to-hugo-theme/ -->
+
+<div class="grid-container {{ .Get "class" }}">
 {{ range .Page.Resources.ByType "image" }}
   {{ $resizedImage := .Resize "x500" }}
   <a href="{{ .Permalink }}" target="_blank">
@@ -10,14 +12,15 @@
 <style>
   .grid-container {
     grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-auto-rows: max-content;
     display: grid;
   }
 
-  .grid-container a {
-    filter: sepia(50%) contrast(200%);
+  .grid-container.aged a {
+    filter: sepia(10%) contrast(100%);
   }
 
-  .grid-container a:hover {
+  .grid-container.aged a:hover {
     filter: sepia(0%) contrast(180%);
   }
 </style>

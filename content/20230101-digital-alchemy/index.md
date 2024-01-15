@@ -1,5 +1,7 @@
 ---
 title: 'Digital Alchemy'
+categories: ['Projects']
+tags: ['current']
 date: 2024-01-14T12:42:47+01:00
 draft: false
 ---
@@ -14,13 +16,16 @@ My personal digital archive has more felt like a duty to oversee and safeguard, 
 
 As part of an ongoing research on this topic I have been experimenting with a digital analog of an alchemic process to transform these materials into something once again dynamic and time bound. In this most recent effort I've processed the images and videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting.
 
-## Results
+Ultimately the goal is to generate artifacts which both effectively honour my past experience, and present me with new synthesized artifacts which aid me in integrating past experience in ways familiar to memory formation in our psyche.
 
-<!-- https://www.kiroule.com/article/add-image-lightbox-to-hugo-theme/ -->
-{{< image-grid >}}
+## Recent experiment: Algorithmic collage
 
-The ultimate is to generate artifacts that both effectively honor my past experience, and present me with new synthesized artifacts which aid me in integrating past experience in ways familiar to memory formation in our psyche.
+With a selection of video files from the last 4 years:
 
-### Initial experiment: Choose a random color channel (Red, Green, or Blue) from 3  randomly choosen single frame from any video during this period, and the create a new RGB frame with the results. Output that as an image.
+1. Choose a random color channel (Red, Green, or Blue) from 3 randomly chosen single frames of any video during this period
+2. Create a new RGB frame with those results, and output that as a new image
 
 Through the random selection of frames from videos spanning the last four years, followed by their recombination, I discovered a result that surpassed mere randomness. Each frame, drawn from various videos, carried a unique charge. While the resultant abstract collages may appear arbitrary or abstract to the viewer, to me, each combination is infused with profound suggestion. This initial exploration has opened a door to a realm where the alchemy of digital media becomes a conduit for meaningful and personal metamorphosis.
+
+
+{{< image-grid class="aged" >}}

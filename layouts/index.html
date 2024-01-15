@@ -1,28 +1,50 @@
 {{ define "main" }}
 
-<p>
-Loren Johnson is going to stay human.
-</p>
-
-<h1>Projects</h1>
-
-<div>
-{{ with .Site.GetPage "/" }}
-    {{ range first 6 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+<div class="current-projects">
+    {{ range where .Site.RegularPages ".Params.tags" "intersect" (slice "current") }}
         <div class="post">
-            <p>
-                <!-- <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div> -->
-                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
-                {{ .Summary }}
-            </p>
-        </div>    
+            <h1>
+                <a href="{{ .Permalink }}" title="{{ .Title }}">
+                    {{ .Title }}
+                </a>
+            </h1>
+            {{ .Summary }}
+        </div>
+    {{ end }}
+</div>
+
+<hr />
+
+<div class="posts-list">
+{{ with .Site.GetPage "/" }}
+    {{ range first 20 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        {{ if not (in .Params.tags "current") }}
+            <div class="post">
+                <p>
+                    <div class="date">{{ .PublishDate.Format "2006-01-06" }}</div>
+                    <h1>
+                        <a href="{{ .Permalink }}" title="{{ .Title }}">
+                            {{ .Title }}
+                            {{ range .Params.categories }}
+                                ({{ . }})
+                            {{ end }}
+
+                        </a>
+                    </h1>
+                    {{ .Summary }}
+                    {{ range .Params.tags }}
+                        <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+                    {{ end }}
+                </p>
+            </div>    
+        {{ end }}
     {{ end }}
 {{ end }}
 </div>
 
 <div class="image-grid">
 {{ with .Site.GetPage "/photos" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+    {{ range first 20 (sort .Data.Pages "Date" "desc")}}
         <a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ $image := .Page.Resources.GetMatch .Params.image }}
         {{ with $image }}

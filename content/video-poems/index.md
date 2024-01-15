@@ -1,6 +1,6 @@
 ---
 title: 'Video Poetry'
-date: 2024-01-14T12:42:49+01:00
+date: 2010-01-01
 draft: false
 ---
 
