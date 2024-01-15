@@ -2,6 +2,7 @@ baseURL = 'https://lorenjohnson.netlify.app/'
 languageCode = 'en-us'
 title = 'Loren Johnson is going to stay human'
 theme = ["hugo-theme-console", "hugo-video"]
+timeout = 120000
 
 [security]
   enableInlineShortcodes = true

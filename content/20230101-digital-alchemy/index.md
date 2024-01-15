@@ -27,5 +27,4 @@ With a selection of video files from the last 4 years:
 
 Through the random selection of frames from videos spanning the last four years, followed by their recombination, I discovered a result that surpassed mere randomness. Each frame, drawn from various videos, carried a unique charge. While the resultant abstract collages may appear arbitrary or abstract to the viewer, to me, each combination is infused with profound suggestion. This initial exploration has opened a door to a realm where the alchemy of digital media becomes a conduit for meaningful and personal metamorphosis.
 
-
 {{< image-grid class="aged" >}}
