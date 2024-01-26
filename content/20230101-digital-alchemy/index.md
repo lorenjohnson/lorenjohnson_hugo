@@ -14,9 +14,11 @@ Digital media is effectively static and unchanged by the passing of time. Tradit
 
 My personal digital archive has more felt like a duty to oversee and safeguard, rather than a site of deep reflection and insight I otherwise wish it to be. 
 
-As part of an ongoing research on this topic I have been experimenting with a digital analog of an alchemic process to transform these materials into something once again dynamic and time bound. In this most recent effort I've processed the images and videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting.
+As part of ongoing research on this topic I've been experimenting with digital analogs of an alchemic processes to transform these materials into something once again dynamic and re-subjected to the fourth dimension. In this most recent effort I've processed the images and videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting.
 
-Ultimately the goal is to generate artifacts which both effectively honour my past experience, and present me with new synthesized artifacts which aid me in integrating past experience in ways familiar to memory formation in our psyche.
+Ultimately the goal is to generate artefacts which both effectively honour my past experience, and present me with new synthesised artefacts which aid me in integrating past experience through promoting default mode network activation and memory reconsolidating. 
+
+So far in experience of the results I have noticed palpable shifts in my relationship to some particularly overwhelming past experiences. The ways some of these experiences now feel woven into my present tense sense is palapable, and reflection the experiences reveals something more settled and inert.
 
 ## Recent experiment: Algorithmic collage
 

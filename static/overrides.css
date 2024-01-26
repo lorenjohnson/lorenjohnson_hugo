@@ -16,9 +16,14 @@ h1::after {
 }
 
 .current-projects {
-  display: flex;
-  gap: 2em;
+  /* display: flex; */
+  /* gap: 2em; */
 }
 .current-projects > * {
-  flex: 1;
+  /* flex: 2; */
+  margin-bottom: 2em;
+}
+
+.current-projects h1 {
+  font-size: 40px;
 }

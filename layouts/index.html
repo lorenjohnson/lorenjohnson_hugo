@@ -1,5 +1,6 @@
 {{ define "main" }}
 
+<h1 style="font-size: 40px;">In Progress</h1>
 <div class="current-projects">
     {{ range where .Site.RegularPages ".Params.tags" "intersect" (slice "current") }}
         <div class="post">
@@ -8,6 +9,11 @@
                     {{ .Title }}
                 </a>
             </h1>
+            {{ with .Resources.GetMatch "cover.*" }}
+                    {{ with .Process "crop 800x400 Center" }}
+                        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+                    {{ end }}
+                {{ end }}
             {{ .Summary }}
         </div>
     {{ end }}
@@ -15,6 +21,7 @@
 
 <hr />
 
+<h1 style="font-size: 20px;">Past Projects</h1>
 <div class="posts-list">
 {{ with .Site.GetPage "/" }}
     {{ range first 20 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}

@@ -1,5 +1,6 @@
 ---
-title: '"Long alone coming home". Berlin, Germany'
+title: '"Long alone, coming home". Berlin, Germany'
+summary: "Expressionistic and narrative watercolor folk art to bring home with you."
 categories: ['Projects']
 date: 2022-09-30
 draft: false
