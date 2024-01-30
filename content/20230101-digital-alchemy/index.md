@@ -8,7 +8,7 @@ draft: false
 
 ## Heaven is a place where nothing ever ever happens
 
-Digital media is effectively static and unchanged by the passing of time. Traditional mediums patina, yellow, curl and decompose with time in ways familiar and often revered and comforting. 
+Digital media is effectively static and unchanged by the passing of time. Traditional media patinas, yellows, curls and decomposes in familiar, often revered, and comforting ways. Meanwhile most us ....
 
 ## Current research
 
@@ -29,4 +29,15 @@ With a selection of video files from the last 4 years:
 
 Through the random selection of frames from videos spanning the last four years, followed by their recombination, I discovered a result that surpassed mere randomness. Each frame, drawn from various videos, carried a unique charge. While the resultant abstract collages may appear arbitrary or abstract to the viewer, to me, each combination is infused with profound suggestion. This initial exploration has opened a door to a realm where the alchemy of digital media becomes a conduit for meaningful and personal metamorphosis.
 
-{{< image-grid class="aged" >}}
+{{<
+  gallery
+  match="images/*"
+  sortOrder="random"
+  rowHeight="500"
+  margins="70"
+  thumbnailResizeOptions="600x600 q90 Lanczos"
+  showExif=false
+  previewType="color"
+  embedPreview=true
+  loadJQuery=true
+>}}

@@ -1,7 +1,7 @@
 baseURL = 'https://lorenjohnson.netlify.app/'
 languageCode = 'en-us'
-title = 'Loren Johnson is currently at work on'
-theme = ["hugo-theme-console", "hugo-video"]
+title = 'Loren Johnson '
+theme = ["hugo-theme-console", "hugo-video", "hugo-shortcode-gallery"]
 timeout = 120000
 
 [security]
