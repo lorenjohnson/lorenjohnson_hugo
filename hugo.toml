@@ -6,3 +6,8 @@ timeout = 120000
 
 [security]
   enableInlineShortcodes = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
