@@ -6,17 +6,17 @@ date: 2024-01-14T12:42:47+01:00
 summary: "As part of ongoing research I've been experimenting with digital analogs of an alchemic processes to transform my digital archives into dynamic and subjected to the passing of time. In this most recent effort I've processed the images and videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting."
 ---
 
-{{<figure src="./images/set-281-0001.png" class="berlin-residency-image" >}}
-
 ## Heaven is a place where nothing ever happens
 
 Digital media remains effectively static and unchanged by the passing of time while traditional media patinas, yellows, curls and decomposes in familiar comforting ways.
 
-## Current research
-
 Approaching my personal digital archive has often felt like a management task, rather than a time of reflection and insight I otherwise wish it to be.
 
-As part of ongoing research on this topic I've been experimenting with digital analogs of an alchemic processes to transform these materials into something once again dynamic and re-subjected to the fourth dimension. In this most recent effort I've processed the images and videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting.
+{{<figure src="./images/set-281-0001.png" class="berlin-residency-image" >}}
+
+## Current research
+
+I've been experimenting with digital analogs of an alchemic processes to transform these materials into something once again dynamic and re-subjected to the fourth dimension. In this most recent effort I've processed the images and videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting.
 
 Ultimately the goal is to generate artefacts which effectively honour my past experience while presenting me with with new perspective on those experiences which aid me in integrating them. Through rendering a series of video montages and then watching them as if one movie, encourages default mode network activation and memory reconsolidation.
 
