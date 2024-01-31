@@ -1,6 +1,6 @@
 ---
 title: 'Sound'
-draft: false
+tags: ["ongoing"]
 ---
 
 Music decorates silence.

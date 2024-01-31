@@ -6,8 +6,8 @@
         <div class="post">
             <a href="{{ .Permalink }}" title="{{ .Title }}" style="position: relative; display: inline-block; text-decoration: none;">
                 {{ with .Resources.GetMatch "cover.*" }}
-                    {{ with .Process "crop 980x300 Center" }}
-                        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" style="display: block; z-index: 1; cursor: hand; filter: brightness(70%)">
+                    {{ with .Process "fill 980x300 Bottom" }}
+                        <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="" style="display: block; z-index: 1; cursor: hand;">
                     {{ end }}
                 {{ end }}
                 <h1 style="position: absolute; bottom: -10px; left: 10px; margin: 0; color: white; z-index: 2;">
@@ -19,48 +19,33 @@
         </div>
     {{ end }}
 </div>
-
 <hr />
-
-<h1>Recent Projects</h1>
+<h1>Recent and Ongoing</h1>
 <div class="posts-list">
 {{ with .Site.GetPage "/" }}
     {{ range first 20 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
-        {{ if not (in .Params.tags "current") }}
+        {{ if and (not (in .Params.tags "current")) (or (in .Params.tags "recent") (in .Params.tags "ongoing")) }}
             <div class="post">
                 <p>
                     <div class="date">{{ .PublishDate.Format "2006-01-06" }}</div>
-                    <h1>
+                    <h2>
                         <a href="{{ .Permalink }}" title="{{ .Title }}">
                             {{ .Title }}
-                            {{ range .Params.categories }}
+                            <!--- {{ range .Params.categories }}
                                 ({{ . }})
-                            {{ end }}
+                            {{ end }}  -->
                         </a>
-                    </h1>
+                    </h2>
                     {{ .Summary }}
+                    <!---
                     {{ range .Params.tags }}
                         <a href="/tags/{{ . | urlize }}">{{ . }}</a>
                     {{ end }}
+                    -->
                 </p>
             </div>    
         {{ end }}
     {{ end }}
 {{ end }}
 </div>
-
-<div class="image-grid">
-{{ with .Site.GetPage "/photos" }}
-    {{ range first 20 (sort .Data.Pages "Date" "desc")}}
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-        {{ $image := .Page.Resources.GetMatch .Params.image }}
-        {{ with $image }}
-            {{ $thumb := .Resize "400x" }}
-            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
-        {{end}}
-        </a>
-    {{ end }}
-{{ end }}
-</div>
-
 {{ end }}

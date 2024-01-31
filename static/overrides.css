@@ -27,3 +27,21 @@ h1::after {
 .current-projects h1 {
   font-size: 40px;
 }
+
+.contact-photos {
+  float: right;
+  max-width: 500px;
+  width: 100%;
+  margin: 0 0 10px 10px;
+}
+
+.berlin-residency-image {
+  margin-left: 0;
+  margin-right: 0;
+  figcaption {
+    text-align: right;
+    h4 {
+      font-style: italic
+    }
+  }
+}

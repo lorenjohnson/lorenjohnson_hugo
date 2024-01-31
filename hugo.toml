@@ -1,7 +1,7 @@
-baseURL = 'https://lorenjohnson.netlify.app/'
+baseURL = 'https://loren.berlin/'
 languageCode = 'en-us'
-title = 'Loren Johnson '
-theme = ["hugo-theme-console", "hugo-video", "hugo-shortcode-gallery"]
+title = 'Loren Edward Johnson '
+theme = ["hugo-cloak-email", "hugo-theme-console", "hugo-video", "hugo-shortcode-gallery"]
 timeout = 120000
 
 [security]
@@ -11,3 +11,21 @@ timeout = 120000
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+
+baseurl = "https://example.com/"
+title = "console-demo"
+theme = "hugo-theme-console"
+languageCode = "en-us"
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "contact/"
+  url = "contact/"

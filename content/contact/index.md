@@ -1,15 +1,16 @@
 ---
-title: "Contact"
+title: "Loren Johnson"
 template: "index.html"
+private: true
 ---
+{{< figure src="headshot.png" alt="A Photo of Loren Johnson" class="contact-photos" >}}
 
-{{< figure src="headshot.png" alt="Loren Johnson sitting at a restaurant looking at the camera" >}}
-Loren Johnson is committed to staying human, and sharing from his heart what he finds most true and meaningful in a tattered world gone cold.
+Committed to mystifying the robots, staying human, and bringing my heart to what I find most true and meaningful in a tattered world.
 
 I live in Berlin, Germany.
 
+{{< cloakemail "lorenjohnson@gmail.com" >}}
+<br />
+[@soulsweetdirtybeat](https://instagram.com/soulsweetdirtybeat)
+<br />
 +49 152 38010115
-
-lorenjohnson@gmail.com
-
-[@soulsweetdirtybeat](https://www.instagram.com/soulsweetdirtybeat")

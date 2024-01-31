@@ -1,7 +1,8 @@
 ---
 title: '"Love is what is left when we''re gone". Portland, Oregon, USA'
-summary: "A final show in Portland before relocating to Berlin."
+summary: "Final show in Portland before relocating to Berlin in which I gave away all my art."
 categories: ['Projects']
+tags: ['current']
 date: 2023-01-30
 draft: false
 ---
@@ -12,9 +13,10 @@ We found in that exercise a very interesting exercise of more than 1 person qual
 
 The co-curation and generosity of this occasion punctuated for me the transition from my solo studio work in the direction of the more social art I was relocating to Berlin to pursue.
 
-{{< video src="videos/IMG_1959" width="200" >}}
+{{< gallery match="images/*" sortOrder="desc" rowHeight="300" margins="10" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
+
+<video src="videos/IMG_1959" width="200" />
 {{< video src="videos/IMG_1961" width="200" >}}
 {{< video src="videos/IMG_1962" width="200" >}}
 {{< video src="videos/IMG_1960" width="200" >}}
 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=false previewType="blur" embedPreview=true loadJQuery=true >}}
