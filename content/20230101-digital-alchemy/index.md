@@ -6,6 +6,8 @@ date: 2024-01-14T12:42:47+01:00
 summary: "As part of ongoing research I've been experimenting with digital analogs of an alchemic processes to transform my digital archives into dynamic and subjected to the passing of time. In this most recent effort I've processed the images and videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting."
 ---
 
+{{<figure src="./images/set-281-0001.png" class="berlin-residency-image" >}}
+
 ## Heaven is a place where nothing ever happens
 
 Digital media remains effectively static and unchanged by the passing of time while traditional media patinas, yellows, curls and decomposes in familiar comforting ways.
@@ -22,7 +24,7 @@ In experience of the results so far I have in fact palpable emotional shifts in 
 
 I intend to continue my research in this area.
 
-## And example of one method used
+## An example of one method used
 
 With a selection of video files from the last 4 years:
 
