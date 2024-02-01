@@ -28,6 +28,12 @@ h1::after {
   font-size: 40px;
 }
 
+.homagepage-block-image {
+  display: block;
+  z-index: 1;
+  cursor: hand;
+}
+
 .contact-photos {
   float: right;
   max-width: 500px;
