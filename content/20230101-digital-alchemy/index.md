@@ -16,13 +16,13 @@ In part due to this quality, and in part due to the available tooling, approachi
 
 ## Current research
 
-I've been experimenting with digital analogs of an alchemic processes to transform these materials into something once again dynamic and re-subjected to the fourth dimension. In this most recent effort I've processed the images and videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting.
+I've been experimenting with digital analogs of an alchemic processes to transform these materials into something once again dynamic and re-subjected to the fourth dimension. In this most recent effort I've my processed videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting.
 
-Ultimately the goal is to generate artefacts which effectively honour my past experience while presenting me with with new perspective on those experiences which aid me in integrating them. Through rendering a series of video montages and then watching them as if one movie, encourages default mode network activation and memory reconsolidation.
+Ultimately the goal is to generate artefacts which effectively honour my past experience, while presenting me with new perspective on those experiences which aid me in integrating them. Through rendering a series of video montages and then watching them as if one movie, the default mode network is activated and memory reconsolidation is potentiated.
 
-In experience of the results so far I have in fact palpable emotional shifts in my relationship to some particularly overwhelming past experiences. This project is leaving me with a lot more to explore and think about, and the research is still in progress.
+In experience of the results so far I have in fact experienced palpable emotional shifts in my relationship to some particularly overwhelming past experiences.
 
-I intend to consolidate the conclusions and resulting imagery to present in an exhibition later this year.
+the research is still in progress, but I intend to consolidate the conclusions and resulting imagery to present in an exhibition later this year.
 
 ## An example of one method used
 
