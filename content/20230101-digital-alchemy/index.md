@@ -29,9 +29,9 @@ the research is still in progress, but I intend to consolidate the conclusions a
 With a selection of video files from the last 4 years:
 
 1. Choose a random color channel (Red, Green, or Blue) from 3 randomly chosen single frames of any video during this period
-2. Create a new RGB frame with those results, and output that as a new image
+2. Output a new RGB video which plays-through each video in its own color channel in a single video, effectively creating a montage
 
-Through the random selection of frames from videos spanning the last four years, followed by their recombination, I discovered a result that surpassed mere randomness. Each frame, drawn from various videos, carried a unique charge. While the resultant abstract collages may appear arbitrary or abstract to the viewer, to me, each combination is infused with a series of profound suggestions. This initial exploration has opened a door to a realm where the alchemy of digital media becomes a conduit for meaningful and personal metamorphosis.
+Through the random selection of frames from videos spanning the last four years, followed by this and other forms of recombination, I found the results feeling not merely random. These juxtapositions of disparate moments in my life were charged, surfacing unexpected associations and suggestions about my past. While the resultant abstract collages may appear arbitrary or abstract to the viewer, to me, each combination is infused with a series of profound suggestions. This initial exploration has opened a door to a realm where the alchemy of digital media becomes a conduit for meaningful and personal metamorphosis.
 
 Additionally, as I progressively decomposed the rendered videos through various rudimentary means such as random pixel removal, I found the results increasingly lifted from the personal into something simply increasingly abstract and aesthetically captivating.
 
