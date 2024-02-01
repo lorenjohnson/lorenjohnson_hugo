@@ -8,9 +8,9 @@ summary: "As part of ongoing research I've been experimenting with digital analo
 
 ## Heaven is a place where nothing ever happens
 
-Digital media remains effectively static and unchanged by the passing of time while traditional media patinas, yellows, curls and decomposes in familiar comforting ways.
+Digital media remains effectively static and unchanged by the passing of time while traditional media patinas, yellows, curls and decomposes in familiar and comforting ways.
 
-Approaching my personal digital archive has often felt like a management task, rather than a time of reflection and insight I otherwise wish it to be.
+In part due to this quality, and in part due to the available tooling, approaching my personal digital archive has often felt like a management task, rather than a time of reflection and insight I otherwise wish it to be.
 
 {{<figure src="./images/set-281-0001.png" class="berlin-residency-image" >}}
 
