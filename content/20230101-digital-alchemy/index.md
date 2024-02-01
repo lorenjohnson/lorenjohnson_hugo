@@ -3,7 +3,7 @@ title: 'Digital Alchemy'
 categories: ['Projects']
 tags: ['current']
 date: 2024-01-14T12:42:47+01:00
-summary: "As part of ongoing research I've been experimenting with digital analogs of an alchemic processes to transform my digital archives into dynamic and subjected to the passing of time. In this most recent effort I've processed the images and videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting."
+summary: "As part of ongoing research I've been experimenting with digital analogs of an alchemic processes to transform my digital archives into something more dynamic, and subjected to the passing of time. In this most recent effort I've processed the images and videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting."
 ---
 
 ## Heaven is a place where nothing ever happens
@@ -20,7 +20,9 @@ I've been experimenting with digital analogs of an alchemic processes to transfo
 
 Ultimately the goal is to generate artefacts which effectively honour my past experience while presenting me with with new perspective on those experiences which aid me in integrating them. Through rendering a series of video montages and then watching them as if one movie, encourages default mode network activation and memory reconsolidation.
 
-In experience of the results so far I have in fact palpable emotional shifts in my relationship to some particularly overwhelming past experiences. However, this is all preliminary, and this project is so far leaving me with a lot more to explore and think about. I will to continue my research in this area.
+In experience of the results so far I have in fact palpable emotional shifts in my relationship to some particularly overwhelming past experiences. This project is leaving me with a lot more to explore and think about, and the research is still in progress.
+
+I intend to consolidate the conclusions and resulting imagery to present in an exhibition later this year.
 
 ## An example of one method used
 
@@ -33,7 +35,7 @@ Through the random selection of frames from videos spanning the last four years,
 
 Additionally, as I progressively decomposed the rendered videos through various rudimentary means such as random pixel removal, I found the results increasingly lifted from the personal into something simply increasingly abstract and aesthetically captivating.
 
-Below are single frames from the videos at various stages of decomposition.
+Below is a collection of single frames from the videos with such methods applied, and at various stages of decomposition.
 
 {{<
   gallery
