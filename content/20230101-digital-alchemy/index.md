@@ -22,7 +22,7 @@ Ultimately the attempt is to recombine, transform, and re-present the artefacts 
 
 While this research is still in progress, in experience of the results of these attempts so far I have in fact experienced palpable emotional shifts in my relationship to some particularly overwhelming past experiences.
 
-I intend to consolidate to continue in this exploration for another few months, then consolidate the conclusions and resulting imagery for presentation in an exhibition later this year.
+I intend to continue in this exploration for another few months, then consolidate my reflections, and resulting imagery for presentation in an exhibition later this year.
 
 ## An example of one method used
 
