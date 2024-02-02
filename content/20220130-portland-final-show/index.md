@@ -7,9 +7,7 @@ date: 2023-01-30
 draft: false
 ---
 
-In preparation for a move to Berlin, I closed my studio in Portland in January 2023 with a final show.  The one rule was "if you will respond to this, and have a place you to put it on your wall, you own it." The show was co-curated by my son's friends who dug through everything in my studio and arranged things in a choatic and adventurous way.
-
-We found in that exercise a very interesting exercise of more than 1 person qualifying by that criteria, and I left it to them to sort out who should take the piece home. 
+In preparation for a move to Berlin, I closed my studio in Portland in January 2023 with a final show.  The one rule was "if you respond to this piece, and have a place you to put it on your wall, it is yours." The show was co-curated by my son's friends who with my direction dug through everything in my studio and curated and arranged things in a chaotic and adventurous way.
 
 The co-curation and generosity of this occasion punctuated for me the transition from my solo studio work in the direction of the more social art I was relocating to Berlin to pursue.
 
