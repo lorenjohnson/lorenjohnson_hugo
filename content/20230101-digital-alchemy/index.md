@@ -10,19 +10,19 @@ summary: "As part of ongoing research I've been experimenting with digital analo
 
 Digital media remains effectively static and unchanged by the passing of time while traditional media patinas, yellows, curls and decomposes in familiar and comforting ways.
 
-In part due to this quality, and in part due to the available tooling, approaching my personal digital archive has often felt like a management task, rather than a time of reflection and insight I otherwise wish it to be.
+In part due to this quality and in part to the available tooling, interacting with my personal digital archive has felt more often like management than an immersion in reflection and insight which I otherwise wish it to be.
 
 {{<figure src="./images/set-281-0001.png" class="berlin-residency-image" >}}
 
 ## Current research
 
-I've been experimenting with digital analogs of an alchemic processes to transform these materials into something once again dynamic and re-subjected to the fourth dimension. In this most recent effort I've my processed videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting.
+I've been experimenting with digital analogs of an alchemic processes to transform these materials into something once again dynamic and re-subjected to the fourth dimension. In this most recent effort I've been processing my videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting. 
 
-Ultimately the goal is to generate artefacts which effectively honour my past experience, while presenting me with new perspective on those experiences which aid me in integrating them. Through rendering a series of video montages and then watching them as if one movie, the default mode network is activated and memory reconsolidation is potentiated.
+Ultimately the attempt is to recombine, transform, and re-present the artefacts in ways which aid me in better understanding and integrating the past. I am rendering a series of video montages and then watching them as if one movie, the default mode network is activated and memory reconsolidation is potentiated.
 
-In experience of the results so far I have in fact experienced palpable emotional shifts in my relationship to some particularly overwhelming past experiences.
+While this research is still in progress, in experience of the results of these attempts so far I have in fact experienced palpable emotional shifts in my relationship to some particularly overwhelming past experiences.
 
-the research is still in progress, but I intend to consolidate the conclusions and resulting imagery to present in an exhibition later this year.
+I intend to consolidate to continue in this exploration for another few months, then consolidate the conclusions and resulting imagery for presentation in an exhibition later this year.
 
 ## An example of one method used
 
