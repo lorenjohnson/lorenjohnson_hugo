@@ -10,9 +10,9 @@ I moved to Berlin last March with the specific intention of exploring a more col
 
 In November 2023, after settling in and with a few months of planning behind me, I initiated and hosted a four-week co-creative art residency with seven other people. Our goal was to delve into working more closely together, while actively observing and studying any obstacles or limitations that arose during our collaborative efforts.
 
-We agreed to meet every Sunday for four weeks to immerse ourselves in co-creative sessions at my home studio. Additionally, there was an optional 15-30 minute call each day, during which anyone in the group could check-in or request support. Independent art practices were honored and supported, and any collaborations that emerged were to be explored and encouraged. I facilitated the first session which included:
+We agreed to meet every Sunday for four weeks at my home studio. Additionally, there was an optional 15-30 minute call each day, during which anyone in the group could check-in or request support. Independent art practices were honored and supported, and any collaborations that emerged were to be explored and encouraged. I facilitated the first session which included:
 
-* Introduction of Group advisors: I sought the witness and guidance of individuals in my life experienced in group facilitation. Each advisor had an opportunity to introduce themselves to the group via video. 
+* Introduction of Group advisors: I sought the witness and guidance of individuals in my life experienced in group facilitation. Each advisor had an opportunity to introduce themselves to the group via video.
 
 * Orientation Talk: I delivered a brief talk about the origin of the residency idea and how I envisioned orienting our time for the month.
 

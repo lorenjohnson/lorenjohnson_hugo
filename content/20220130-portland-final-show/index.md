@@ -17,4 +17,3 @@ The co-curation and generosity of this occasion punctuated for me the transition
 {{< video src="videos/IMG_1961" width="200" >}}
 {{< video src="videos/IMG_1962" width="200" >}}
 {{< video src="videos/IMG_1960" width="200" >}}
-
