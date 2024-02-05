@@ -10,21 +10,19 @@ summary: "As part of ongoing research I've been experimenting with digital analo
 
 Digital media remains effectively static and unchanged by the passing of time, while traditional media patinas, yellows, curls and decomposes in familiar and comforting ways.
 
-In part due to this quality and in part to the available tooling, interacting with my personal digital archive has felt more often like management than an immersion in reflection and insight which I otherwise wish it to be.
+In part due to this quality and in part to the available tooling, interacting with my personal digital archive has more often felt like a management activity, than an immersion in reflection and insight which I otherwise wish it to be.
 
 {{<figure src="./images/set-281-0001.png" class="berlin-residency-image" >}}
 
 ## Current research
 
-I've been experimenting with digital analogs of an alchemic processes to transform these materials into something once again dynamic and re-subjected to the fourth dimension. In this most recent effort I've been processing my videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting. 
+I've been experimenting with the digital analogs of alchemic processes in transforming my experience of this from one of a stifling accumulated mass, to something again dynamic and in service to my present-tense. In my most recent effort I've subjected my videos through an algorithmic approximation of the first four stages of that process: burning, dissolving, separating, re-combining, and fermenting.
 
-Ultimately the attempt is to recombine, transform, and re-present the artefacts in ways which aid me in better understanding and integrating the past. I've been rendering these video montages, and then watching them as if one movie, inviting default mode network activation and memory reconsolidation.
+So far the results have been a long series of video collages arrived at through a randomized, aesthetically-drive, and algorithmic process. These short videos juxtapose desperate past moments. In watching many of these results as a single movie, I've been able to immerse in ways which has incited reflection and introspection. Through these times I've began to notice my relationship becoming more dynamic to some particularly overwhelming moments in my past.
 
-While this research is still in progress, in experience of the results of these attempts so far I have in fact experienced palpable emotional shifts in my relationship to some particularly overwhelming past experiences.
+This exploration has been fascinating, and delivered intriguing and promising results so far. I intend to continue this research for some more months, and then consolidate and share more in a talk and exhibition later this year.
 
-I intend to continue in this exploration for some more months, then consolidate my reflections and imagery and share the results in an exhibition.
-
-## An example of one method used
+## Surpassing the personal
 
 With a selection of video files from the last 4 years:
 
