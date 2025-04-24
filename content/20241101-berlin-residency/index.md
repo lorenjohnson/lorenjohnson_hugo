@@ -1,7 +1,7 @@
 ---
 title: 'Berlin Residency'
 categories: ['Projects']
-tags: ['current']
+tags: ['recent']
 date: 2023-10-01
 draft: false
 ---

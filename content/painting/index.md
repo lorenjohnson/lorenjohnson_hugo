@@ -7,4 +7,4 @@ To explore what doesn't seem socially communicable in me, but becomes material f
 
 In exploring within that practice over time my interest turned towards a more social and collective practice. I relocated to Berlin in March of 2023 explicitly to locate myself in a place where I feel I can explore a more social and collective art practice.
 
-I had a final in-studio show in Portland, Oregon in February 2023 before leaving for Berlin. The principle of the show was to rid myself of the 
+I had a final in-studio show in Portland, Oregon in February 2023 before leaving for Berlin.
