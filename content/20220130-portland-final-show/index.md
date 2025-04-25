@@ -2,7 +2,7 @@
 title: '"Love is what is left when we''re gone". Portland, Oregon, USA'
 summary: "Final show in Portland before relocating to Berlin in which I gave away all my art."
 categories: ['Projects']
-tags: ['current']
+tags: ['recent']
 date: 2023-01-30
 draft: false
 ---

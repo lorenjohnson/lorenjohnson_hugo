@@ -1,6 +1,7 @@
 {{ define "main" }}
 
-<h1 style="font-size: 26px;">In Progress</h1>
+<p>And what matters most to me is what’s close—the texture of connection, the beauty of being in question together, the politics of how we show up and how we touch, how we name and how we don’t, how we let the raw, searching, complex truth of our being shape the forms we move through—because the kinds of closeness we allow or deny are not separate from the systems we live in but are the systems, and I believe the most political thing we can do is meet each other here, not unfiltered or naive, but naked in our awareness, questioning the forms we inherit, the rituals we repeat, and whether they still serve, whether they reflect what we actually value, what we long for, what we’re willing to change for, what beauty we might create if we didn’t turn away.</p>
+<h1 style="font-size: 26px;">Current Projects</h1>
 <div class="current-projects">
     {{ range where .Site.RegularPages ".Params.tags" "intersect" (slice "current") }}
         <div class="post">
